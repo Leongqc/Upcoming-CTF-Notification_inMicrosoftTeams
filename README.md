@@ -11,3 +11,6 @@ Step to play with:
 3. A link successfully generated for you to call
 4. Replace the link into the TEAMS_WEBHOOK_URL in the python script
 5. Run it
+
+Example output:
+![Screenshot 2025-03-10 131346](https://github.com/user-attachments/assets/b3e83b7b-e1fa-4dc8-9187-59cd60de02c4)
