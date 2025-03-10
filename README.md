@@ -5,6 +5,7 @@ Specification:
 1. Optimize with current date time to calculate upcoming date time
 2. Optimize with KUL time +08
 
+Step to play with:
 1. In teams, pls search for webhook bot app (By CoinToss Inc.) and add into your channel/teams
 2. Click create webhook
 3. A link successfully generated for you to call
