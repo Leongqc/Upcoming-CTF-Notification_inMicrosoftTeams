@@ -1,5 +1,5 @@
 # Upcoming-CTF-Notification_inMicrosoftTeams
-A script that using fetch the upcoming event info from CTFTime to Microsoft Teams Webhook Bot, with upcoming calculation
+A script that using fetch the upcoming event info from CTFTime to Microsoft Teams Webhook Bot
 
 Specification:
 1. Optimize with current date time to calculate upcoming date time
